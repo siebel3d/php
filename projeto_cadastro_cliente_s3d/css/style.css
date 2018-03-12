@@ -1,0 +1,19 @@
+body {
+    background: #CECECE;
+}
+
+header {
+    background: #2e7dd8;
+}
+
+aside {
+    background: green;
+}
+
+section {
+    background: yellow;
+}
+
+footer {
+    background: brown;
+}
